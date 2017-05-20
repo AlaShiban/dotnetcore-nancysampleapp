@@ -1,8 +1,0 @@
-/Users/alashiban/PersonalProjects/DockerArticles/mono-test/nancy-core/bin/Debug/netcoreapp1.1/nancy-core.deps.json
-/Users/alashiban/PersonalProjects/DockerArticles/mono-test/nancy-core/bin/Debug/netcoreapp1.1/nancy-core.runtimeconfig.json
-/Users/alashiban/PersonalProjects/DockerArticles/mono-test/nancy-core/bin/Debug/netcoreapp1.1/nancy-core.runtimeconfig.dev.json
-/Users/alashiban/PersonalProjects/DockerArticles/mono-test/nancy-core/bin/Debug/netcoreapp1.1/nancy-core.dll
-/Users/alashiban/PersonalProjects/DockerArticles/mono-test/nancy-core/bin/Debug/netcoreapp1.1/nancy-core.pdb
-/Users/alashiban/PersonalProjects/DockerArticles/mono-test/nancy-core/obj/Debug/netcoreapp1.1/nancy-core.AssemblyInfo.cs
-/Users/alashiban/PersonalProjects/DockerArticles/mono-test/nancy-core/obj/Debug/netcoreapp1.1/nancy-core.dll
-/Users/alashiban/PersonalProjects/DockerArticles/mono-test/nancy-core/obj/Debug/netcoreapp1.1/nancy-core.pdb
