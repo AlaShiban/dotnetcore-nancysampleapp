@@ -14,6 +14,8 @@ project.lock.json
 *.sln.docstates
 
 # Build results
+bin/
+obj/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
